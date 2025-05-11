@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Lincoln
 - 👀 I’m interested in software development and open source projects
-- 🌱 I’m currently learning Kotlin and Android development
+- 🌱 I’m currently learning Kotlin and Android development 👾
 
 <!---
 ArthurLincolnNM/ArthurLincolnNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
