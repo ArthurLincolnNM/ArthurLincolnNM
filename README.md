@@ -9,5 +9,10 @@ Kotlin and Android development
 Contributing to Open Source projects: I believe in the power of collaboration and community.
 Exploring the latest trends in modern languages and frameworks: Constantly seeking tools that optimize development.
 
+
+[![ArthurLincolnNM](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLincolnNM&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 I'm always open to new connections and opportunities to collaborate on innovative projects. Let's build something amazing together! 
 Feel free to explore my repositories and projects! 👇
